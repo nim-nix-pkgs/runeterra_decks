@@ -444,11 +444,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1667323295,
-        "narHash": "sha256-ItE3bchKLnx8rvfONvKHsIyV2a8weIEICNE2heTDl40=",
+        "lastModified": 1667330447,
+        "narHash": "sha256-0NOqJ+GlLwkbGA4Skuup3/eBYA880pm6MyIouks5lrY=",
         "owner": "nim-nix-pkgs",
         "repo": "runeterra_decks",
-        "rev": "ac6f754ab661e60400081c3ff4b54f8f8b89c614",
+        "rev": "ef01a864939881e9f13630fe52618407961bec7b",
         "type": "github"
       },
       "original": {
@@ -472,11 +472,11 @@
       },
       "locked": {
         "dir": "v0_1_0",
-        "lastModified": 1667323295,
-        "narHash": "sha256-ItE3bchKLnx8rvfONvKHsIyV2a8weIEICNE2heTDl40=",
+        "lastModified": 1667330447,
+        "narHash": "sha256-0NOqJ+GlLwkbGA4Skuup3/eBYA880pm6MyIouks5lrY=",
         "owner": "nim-nix-pkgs",
         "repo": "runeterra_decks",
-        "rev": "ac6f754ab661e60400081c3ff4b54f8f8b89c614",
+        "rev": "ef01a864939881e9f13630fe52618407961bec7b",
         "type": "github"
       },
       "original": {
@@ -500,11 +500,11 @@
       },
       "locked": {
         "dir": "v0_2_0",
-        "lastModified": 1667323295,
-        "narHash": "sha256-ItE3bchKLnx8rvfONvKHsIyV2a8weIEICNE2heTDl40=",
+        "lastModified": 1667330447,
+        "narHash": "sha256-0NOqJ+GlLwkbGA4Skuup3/eBYA880pm6MyIouks5lrY=",
         "owner": "nim-nix-pkgs",
         "repo": "runeterra_decks",
-        "rev": "ac6f754ab661e60400081c3ff4b54f8f8b89c614",
+        "rev": "ef01a864939881e9f13630fe52618407961bec7b",
         "type": "github"
       },
       "original": {
@@ -528,11 +528,11 @@
       },
       "locked": {
         "dir": "v0_2_1",
-        "lastModified": 1667323295,
-        "narHash": "sha256-ItE3bchKLnx8rvfONvKHsIyV2a8weIEICNE2heTDl40=",
+        "lastModified": 1667330447,
+        "narHash": "sha256-0NOqJ+GlLwkbGA4Skuup3/eBYA880pm6MyIouks5lrY=",
         "owner": "nim-nix-pkgs",
         "repo": "runeterra_decks",
-        "rev": "ac6f754ab661e60400081c3ff4b54f8f8b89c614",
+        "rev": "ef01a864939881e9f13630fe52618407961bec7b",
         "type": "github"
       },
       "original": {
@@ -556,11 +556,11 @@
       },
       "locked": {
         "dir": "v0_2_2",
-        "lastModified": 1667323295,
-        "narHash": "sha256-ItE3bchKLnx8rvfONvKHsIyV2a8weIEICNE2heTDl40=",
+        "lastModified": 1667330447,
+        "narHash": "sha256-0NOqJ+GlLwkbGA4Skuup3/eBYA880pm6MyIouks5lrY=",
         "owner": "nim-nix-pkgs",
         "repo": "runeterra_decks",
-        "rev": "ac6f754ab661e60400081c3ff4b54f8f8b89c614",
+        "rev": "ef01a864939881e9f13630fe52618407961bec7b",
         "type": "github"
       },
       "original": {
@@ -584,11 +584,11 @@
       },
       "locked": {
         "dir": "v0_2_3",
-        "lastModified": 1667323295,
-        "narHash": "sha256-ItE3bchKLnx8rvfONvKHsIyV2a8weIEICNE2heTDl40=",
+        "lastModified": 1667330447,
+        "narHash": "sha256-0NOqJ+GlLwkbGA4Skuup3/eBYA880pm6MyIouks5lrY=",
         "owner": "nim-nix-pkgs",
         "repo": "runeterra_decks",
-        "rev": "ac6f754ab661e60400081c3ff4b54f8f8b89c614",
+        "rev": "ef01a864939881e9f13630fe52618407961bec7b",
         "type": "github"
       },
       "original": {
@@ -612,11 +612,11 @@
       },
       "locked": {
         "dir": "v0_4_0",
-        "lastModified": 1667323295,
-        "narHash": "sha256-ItE3bchKLnx8rvfONvKHsIyV2a8weIEICNE2heTDl40=",
+        "lastModified": 1667330447,
+        "narHash": "sha256-0NOqJ+GlLwkbGA4Skuup3/eBYA880pm6MyIouks5lrY=",
         "owner": "nim-nix-pkgs",
         "repo": "runeterra_decks",
-        "rev": "ac6f754ab661e60400081c3ff4b54f8f8b89c614",
+        "rev": "ef01a864939881e9f13630fe52618407961bec7b",
         "type": "github"
       },
       "original": {
@@ -640,11 +640,11 @@
       },
       "locked": {
         "dir": "v0_5_0",
-        "lastModified": 1667323295,
-        "narHash": "sha256-ItE3bchKLnx8rvfONvKHsIyV2a8weIEICNE2heTDl40=",
+        "lastModified": 1667330447,
+        "narHash": "sha256-0NOqJ+GlLwkbGA4Skuup3/eBYA880pm6MyIouks5lrY=",
         "owner": "nim-nix-pkgs",
         "repo": "runeterra_decks",
-        "rev": "ac6f754ab661e60400081c3ff4b54f8f8b89c614",
+        "rev": "ef01a864939881e9f13630fe52618407961bec7b",
         "type": "github"
       },
       "original": {
@@ -668,11 +668,11 @@
       },
       "locked": {
         "dir": "v0_5_1",
-        "lastModified": 1667323295,
-        "narHash": "sha256-ItE3bchKLnx8rvfONvKHsIyV2a8weIEICNE2heTDl40=",
+        "lastModified": 1667330447,
+        "narHash": "sha256-0NOqJ+GlLwkbGA4Skuup3/eBYA880pm6MyIouks5lrY=",
         "owner": "nim-nix-pkgs",
         "repo": "runeterra_decks",
-        "rev": "ac6f754ab661e60400081c3ff4b54f8f8b89c614",
+        "rev": "ef01a864939881e9f13630fe52618407961bec7b",
         "type": "github"
       },
       "original": {
@@ -696,11 +696,11 @@
       },
       "locked": {
         "dir": "v0_6_0",
-        "lastModified": 1667323295,
-        "narHash": "sha256-ItE3bchKLnx8rvfONvKHsIyV2a8weIEICNE2heTDl40=",
+        "lastModified": 1667330447,
+        "narHash": "sha256-0NOqJ+GlLwkbGA4Skuup3/eBYA880pm6MyIouks5lrY=",
         "owner": "nim-nix-pkgs",
         "repo": "runeterra_decks",
-        "rev": "ac6f754ab661e60400081c3ff4b54f8f8b89c614",
+        "rev": "ef01a864939881e9f13630fe52618407961bec7b",
         "type": "github"
       },
       "original": {
@@ -724,11 +724,11 @@
       },
       "locked": {
         "dir": "v0_6_1",
-        "lastModified": 1667323295,
-        "narHash": "sha256-ItE3bchKLnx8rvfONvKHsIyV2a8weIEICNE2heTDl40=",
+        "lastModified": 1667330447,
+        "narHash": "sha256-0NOqJ+GlLwkbGA4Skuup3/eBYA880pm6MyIouks5lrY=",
         "owner": "nim-nix-pkgs",
         "repo": "runeterra_decks",
-        "rev": "ac6f754ab661e60400081c3ff4b54f8f8b89c614",
+        "rev": "ef01a864939881e9f13630fe52618407961bec7b",
         "type": "github"
       },
       "original": {
@@ -752,11 +752,11 @@
       },
       "locked": {
         "dir": "v0_7_0",
-        "lastModified": 1667323295,
-        "narHash": "sha256-ItE3bchKLnx8rvfONvKHsIyV2a8weIEICNE2heTDl40=",
+        "lastModified": 1667330447,
+        "narHash": "sha256-0NOqJ+GlLwkbGA4Skuup3/eBYA880pm6MyIouks5lrY=",
         "owner": "nim-nix-pkgs",
         "repo": "runeterra_decks",
-        "rev": "ac6f754ab661e60400081c3ff4b54f8f8b89c614",
+        "rev": "ef01a864939881e9f13630fe52618407961bec7b",
         "type": "github"
       },
       "original": {
@@ -780,11 +780,11 @@
       },
       "locked": {
         "dir": "v0_7_1",
-        "lastModified": 1667323295,
-        "narHash": "sha256-ItE3bchKLnx8rvfONvKHsIyV2a8weIEICNE2heTDl40=",
+        "lastModified": 1667330447,
+        "narHash": "sha256-0NOqJ+GlLwkbGA4Skuup3/eBYA880pm6MyIouks5lrY=",
         "owner": "nim-nix-pkgs",
         "repo": "runeterra_decks",
-        "rev": "ac6f754ab661e60400081c3ff4b54f8f8b89c614",
+        "rev": "ef01a864939881e9f13630fe52618407961bec7b",
         "type": "github"
       },
       "original": {
